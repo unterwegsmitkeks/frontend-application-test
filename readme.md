@@ -19,10 +19,12 @@ Das HTML-Gerüst in der "index.html" soll mittels CSS gestylt werden.
  - Zielplatform sind moderne Browser auf **Webkit-/Blink**-Basis (Chrome/Safari/Opera)
  - Besonderes Augenmerk sollte auf **Responsive Design** gelegt werden
  - Beim Stylen kann ausdrücklich **CSS3** verwendet werden
- - Optisch sollte sich das Ergebnis an http://flyacts.com orienterieren, gern aber auch an den Design Guides der drei führenden mobilen Platformen:
-**iOS** - https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
-**Android** - https://developer.android.com/design/index.html
-**Windows** - https://dev.windows.com/en-us/design
+
+Optisch sollte sich das Ergebnis an http://flyacts.com orienterieren, gern aber auch an den Design Guides der drei führenden mobilen Platformen:
+ 
+ - **iOS** - https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+ - **Android** - https://developer.android.com/design/index.html
+ - **Windows** - https://dev.windows.com/en-us/design
 
 Aufgabe 2 (JS)
 --------------
