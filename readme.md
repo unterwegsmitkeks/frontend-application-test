@@ -22,7 +22,7 @@ Das HTML-Gerüst in der "index.html" soll mittels CSS gestylt werden.
  - Es soll ausschließlich **pures CSS** verwendet werden.
  - Das HTML-Gerüst und die dazugehörigen Klassen/ID's dürfen **nicht** verändert werden.
 
-Optisch sollte sich das Ergebnis an http://flyacts.com orienterieren, gern aber auch an den Design Guides der drei führenden mobilen Platformen:
+Optisch sollte sich das Ergebnis an http://flyacts.com orientieren, gern aber auch an den Design Guides der drei führenden mobilen Platformen:
  
  - **iOS** - https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
  - **Android** - https://developer.android.com/design/index.html
@@ -35,7 +35,7 @@ Aufgabe 2 (JS)
 
 In der zweiten Aufgabe hauchen wir der frisch gestalteten Seite etwas Leben ein. 
 
-Die vier Inhalts-punkte ("Dafür stehen wir!", "Entwicklung!", "Marketing!", "Unser Team!") sollen in einer horizontalen **Slideshow** automatisch durchgeblättert werden. 
+Die vier Inhaltspunkte ("Dafür stehen wir!", "Entwicklung!", "Marketing!", "Unser Team!") sollen in einer horizontalen **Slideshow** automatisch durchgeblättert werden. 
 
 Zusätzlich sollen die Punkte um ein aussagekräftiges Bild angereichert werden, welches per "**Lazy-Loading**" nach der abgeschlossenen Slide-Animation nachgeladen und eingeblendet wird.
 
