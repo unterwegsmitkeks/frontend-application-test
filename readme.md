@@ -20,7 +20,7 @@ Das HTML-Gerüst in der "index.html" soll mittels CSS gestylt werden.
  - Besonderes Augenmerk sollte auf **Responsive Design** gelegt werden
  - Beim Stylen kann ausdrücklich **CSS3** verwendet werden
  - Es soll ausschließlich **pures CSS** verwendet werden.
- - Das HTML-Gerüst und die dazugehörigen Klassen/ID's dürfen nicht verändert werden.
+ - Das HTML-Gerüst und die dazugehörigen Klassen/ID's dürfen **nicht** verändert werden.
 
 Optisch sollte sich das Ergebnis an http://flyacts.com orienterieren, gern aber auch an den Design Guides der drei führenden mobilen Platformen:
  
